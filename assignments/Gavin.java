@@ -1,5 +1,5 @@
 /* 
-Code Fixup 1: Gavin
+Virtual Assignment One: Gavin
 
 Objective:
 Fix Gavin's code, so that it outputs "hello".
