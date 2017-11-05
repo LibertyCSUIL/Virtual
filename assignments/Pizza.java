@@ -1,7 +1,7 @@
 /*
 Programmer:  
 
-Virtual Program Assignment Five: Pizza
+Virtual Program Assignment Six: Pizza
 
 Objective:
 Make a program that outputs the number of pizza
