@@ -1,0 +1,7 @@
+Date of review: 11/5/17 5:26PM
+Graded by: Gavin Deshotel
+
+GRADE: 95
+REASON: Curly brackets in if statements makes
+your code easier to maintain, so including them
+should be a habit.
