@@ -1,4 +1,6 @@
 /* 
+Programmer: 
+
 Virtual Assignment One: Gavin
 
 Objective:

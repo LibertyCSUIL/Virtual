@@ -1,5 +1,5 @@
 /*
-Programmer:  
+Programmer: 
 
 Virtual Program Assignment Six: Pizza
 
