@@ -18,6 +18,8 @@ public class VarSum
    public static void main(String[] args)
    {
       
+      
+      
    }
 
 }
