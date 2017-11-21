@@ -12,7 +12,7 @@ pizza slices are ten, anything above ten outputs:
 "Not enough pizza :(".
 
 Requirements:
-1. You can only use longs
+1. You can only use shorts
 2. You can only use switch statements
 as a conditional.
 */
