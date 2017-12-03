@@ -22,7 +22,7 @@ mkdir <year>/<name>/
 cd <year>/<name>/
 
 
-Step Four, copy Java homework into current directory:
+Step Four, copy Java virutal assignment into current directory:
 
 cp ~/Virtual/assignments/<assignment.java> $PWD
 
@@ -30,14 +30,14 @@ cp ~/Virtual/assignments/<assignment.java> $PWD
 Step Five, complete assignment.
 
 
-Step Six, add the homework to the repository:
+Step Six, add the virtual assignment to the repository:
 
 git add <assignment.java>
 
 
 Step Seven, commit the name of the homework with the date and time:
 
-EXAMPLE: git commit -m "Input, 07/02/2017 06:27PM"
+EXAMPLE: git commit -m "VarSum, 07/02/2017 06:27PM"
 
 git commit -m "<assignment>, <date> <time>"
 
