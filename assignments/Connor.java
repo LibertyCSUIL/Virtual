@@ -1,7 +1,7 @@
 /*
 Programmer: 
 
-Virtual Assignment Six: Connor
+Virtual Assignment Eight: Connor
 
 Objective:
 Fix Connor's code, so that it outputs the numbers 0
